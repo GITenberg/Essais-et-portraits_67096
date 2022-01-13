@@ -1,0 +1,31 @@
+_repo: Essais-et-portraits_67096
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Blanche, Jacques-Émile
+    alias: Blanche, Jacques-Emile
+    birthdate: 1861
+    deathdate: 1942
+    gutenberg_agent_id: '46567'
+    url: http://www.gutenberg.org/2009/agents/46567
+    wikipedia: https://fr.wikipedia.org/wiki/Jacques-%C3%89mile_Blanche
+description: ''
+gutenberg_issued: '2022-01-03'
+identifiers:
+  gutenberg: '67096'
+language: fr
+pgterms:marc904: https://archive.org/details/essaisetportrait00blan
+pgterms:marc905: 20130630234400blanche
+pgterms:marc906: '1912'
+pgterms:marc907: FR
+production_note: Clarity, Hans Pieterse and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive/Canadian Libraries)
+publication_note: France :Les Bibliophiles fantaisistes, Dorbon-aÃ®nÃ©,1912.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Essais et portraits
+url: http://www.gutenberg.org/ebooks/67096
