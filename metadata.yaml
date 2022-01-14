@@ -1,5 +1,8 @@
 _repo: Essais-et-portraits_67096
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67096-h/images/cover.jpg
 creator:
   author:
     agent_name: Blanche, Jacques-Émile
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/46567
     wikipedia: https://fr.wikipedia.org/wiki/Jacques-%C3%89mile_Blanche
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67096#Essais-et-portraits
 gutenberg_issued: '2022-01-03'
 identifiers:
   gutenberg: '67096'
